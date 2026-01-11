@@ -25,7 +25,7 @@
 
 // public/f1.js
 (function(){
-  const BASE = 'https://shahzo11.onrender.com'; // server URL
+  const BASE = 'https://shahzod11.onrender.com'; // server URL
 
   let holdTimer=null, clickCount=0, lastSince=0, box=null;
 
